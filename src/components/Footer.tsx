@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="site-footer">
       <div className="container site-footer__grid">
         <div className="site-footer__company">
-          <h3>{siteConfig.company.name}</h3>
+          <h3>{siteConfig.company.footerJuridicalName}</h3>
           <p className="site-footer__cnpj">CNPJ {siteConfig.company.cnpj}</p>
           <p className="site-footer__address">{formatFullAddress(siteConfig.address)}</p>
         </div>
@@ -63,7 +63,7 @@ export default function Footer() {
 
       <div className="container site-footer__bottom">
         <small>
-          © {new Date().getFullYear()} {siteConfig.company.name}. Todos os direitos reservados.
+          © {new Date().getFullYear()} {siteConfig.company.footerName}. Todos os direitos reservados.
         </small>
       </div>
     </footer>

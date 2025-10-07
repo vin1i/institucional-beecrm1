@@ -1,13 +1,15 @@
 {
   "company": {
-    "name": "Bee Labs Tecnologia Ltda.",
-    "slogan": "Estratégia digital inteligente para negócios que querem voar alto.",
-    "cnpj": "12.345.678/0001-90",
-    "email": "contato@beelabs.com.br",
-    "phone": "+55 (11) 90000-1234",
-    "whatsapp": "https://wa.me/5511900001234",
-    "logoAlt": "Logotipo da Bee Labs Tecnologia",
-    "foundedIn": "2014"
+    "name": "Paschoalotto Digital Comunicação e Tecnologia",
+    "footerName": "2025 Paschoalotto Digital – Projeto operado por Juntos Comunicação e Eventos LTDA",
+    "footerJuridicalName": "Juntos Comunicação e Eventos LTDA",
+    "slogan": "Conectando marcas e clientes de forma eficiente e estratégica.",
+    "cnpj": "40.758.417/0001-32",
+    "email": "contato@paschoalottodigital.com.br",
+    "phone": "+55 (11) 93454-7929",
+    "whatsapp": "https://wa.me/5511934547929",
+    "logoAlt": "Logotipo da Paschoalotto Digital",
+    "foundedIn": "2025"
   },
   "about": {
     "short": "Somos uma empresa especializada em estratégia digital, performance e tecnologia, com foco em resultados mensuráveis e crescimento sustentável para nossos clientes.",
