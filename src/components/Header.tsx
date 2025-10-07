@@ -60,7 +60,7 @@ export default function Header() {
               ))}
             </ul>
           </div>
-          <div className="site-nav__legal">
+          {/* <div className="site-nav__legal">
             <ul>
               {legalLinks.map((link) => (
                 <li key={link.href}>
@@ -70,7 +70,7 @@ export default function Header() {
                 </li>
               ))}
             </ul>
-          </div>
+          </div> */}
         </nav>
 
         <button

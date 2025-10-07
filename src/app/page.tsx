@@ -6,26 +6,25 @@ export default function Home() {
 
   return (
     <>
-      <section className="hero">
-        <div className="container hero__wrapper">
-          <div className="stack">
-            <span className="brand__tagline">Desde {company.foundedIn}</span>
-            <h1 className="hero__title">
-              {company.name}
-            </h1>
-            <p className="hero__subtitle">{company.slogan}</p>
-            <p className="section-subtitle">{about.short}</p>
-            <div className="hero__cta">
-              <Link className="btn btn-primary" href="/contato">
-                Fale com nossa equipe
-              </Link>
-              <Link className="btn btn-outline" href="/sobre">
-                Conheça a Bee Labs
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
+  <section className="container hero">
+  <div className=" hero__wrapper">
+    <div className="stack">
+      <span className="brand__tagline">Desde {company.foundedIn}</span>
+      <h1 className="hero__title">{company.name}</h1>
+      <p className="hero__subtitle">{company.slogan}</p>
+      <p className="section-subtitle">{about.short}</p>
+      <div className="hero__cta">
+        <Link className="btn btn-primary" href="/contato">
+          Fale com nossa equipe
+        </Link>
+        <Link className="btn btn-outline" href="/sobre">
+          Conheça a Bee Labs
+        </Link>
+      </div>
+    </div>
+  </div>
+</section>
+
 
       <section id="sobre">
         <div className="container stack">

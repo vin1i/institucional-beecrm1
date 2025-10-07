@@ -11,34 +11,33 @@ export default function PoliticaPrivacidadePage() {
   const privacy = legal.privacy;
 
   return (
-    <section>
-      <div className="container stack">
-        <header className="stack">
-          <h1 className="section-title">Política de Privacidade</h1>
-          <p className="section-subtitle">
+    <section className="politica">
+      <div className="container">
+        <header className="politica__header">
+          <h1>Política de Privacidade</h1>
+          <p>
             Este documento descreve como a {company.name} trata os dados pessoais
             em conformidade com a Lei Geral de Proteção de Dados (LGPD).
           </p>
-          <small style={{ color: "var(--color-muted)" }}>
-            Última atualização: {privacy.lastUpdated}
-          </small>
+          <small>Última atualização: {privacy.lastUpdated}</small>
         </header>
 
-        <div className="legal-wrapper">
+        <div className="politica__content">
           {privacy.sections.map((section) => (
-            <article key={section.title} className="legal-section">
+            <article key={section.title} className="politica__section">
               <h3>{section.title}</h3>
               <p>{section.body}</p>
             </article>
           ))}
         </div>
 
-        <div className="card">
+        <div className="politica__contact card">
           <h2>Entre em contato</h2>
           <p>
             Em caso de dúvidas sobre esta política ou para exercer seus direitos
-            como titular de dados, fale conosco pelo e-mail {contact.email} ou
-            pelo telefone {contact.phone}.
+            como titular de dados, fale conosco pelo e-mail{" "}
+            <a href={`mailto:${contact.email}`}>{contact.email}</a> ou pelo
+            telefone <a href={`tel:${contact.phone}`}>{contact.phone}</a>.
           </p>
         </div>
       </div>

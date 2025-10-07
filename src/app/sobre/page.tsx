@@ -10,36 +10,34 @@ export default function SobrePage() {
   const { company, about, address } = siteConfig;
 
   return (
-    <section>
-      <div className="container stack">
-        <header className="stack" style={{ gap: "0.6rem" }}>
+    <section className="sobre">
+      <div className="container">
+        <header className="sobre__header">
           <span className="brand__tagline">Desde {company.foundedIn}</span>
-          <h1 className="section-title">Construímos confiança no ambiente digital</h1>
-          <p className="section-subtitle">{about.short}</p>
+          <h1>Construímos confiança no ambiente digital</h1>
+          <p className="sobre__intro">{about.short}</p>
         </header>
 
-        <div className="stack">
+        <div className="sobre__content">
           {about.detailed.map((paragraph, index) => (
-            <p key={index} className="section-subtitle" style={{ maxWidth: "78ch" }}>
-              {paragraph}
-            </p>
+            <p key={index}>{paragraph}</p>
           ))}
         </div>
 
-        <div className="grid" style={{ gap: "1.6rem" }}>
-          <article className="card">
+        <div className="sobre__principles">
+          <div className="sobre__card">
             <h2>Missão</h2>
             <p>{about.mission}</p>
-          </article>
-          <article className="card">
+          </div>
+          <div className="sobre__card">
             <h2>Visão</h2>
             <p>{about.vision}</p>
-          </article>
+          </div>
         </div>
 
-        <div className="card">
+        <div className="sobre__values">
           <h2>Valores que nos movem</h2>
-          <ul className="value-list" style={{ marginTop: "1.4rem" }}>
+          <ul>
             {about.values.map((value) => (
               <li key={value.title}>
                 <h4>{value.title}</h4>
@@ -49,11 +47,9 @@ export default function SobrePage() {
           </ul>
         </div>
 
-        <div className="card" style={{ display: "grid", gap: "0.8rem" }}>
+        <div className="sobre__location">
           <h2>Onde estamos</h2>
-          <p>
-            {company.name} · CNPJ {company.cnpj}
-          </p>
+          <p>{company.name} · CNPJ {company.cnpj}</p>
           <p>{formatFullAddress(address)}</p>
         </div>
       </div>
