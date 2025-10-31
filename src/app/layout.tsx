@@ -28,6 +28,14 @@ export const metadata: Metadata = {
     locale: "pt_BR",
     siteName: siteConfig.company.name,
     type: "website",
+    images: [
+      {
+        url: "/images/MartinsComercioLogo.png",
+        width: 1200,
+        height: 630,
+        alt: siteConfig.company.name,
+      },
+    ],
   },
 };
 
