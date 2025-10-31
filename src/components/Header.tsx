@@ -46,7 +46,7 @@ export default function Header() {
       <div className="container site-header__content">
         <Link href="/" className="brand" aria-label={siteConfig.company.logoAlt} style={{flexDirection: 'row', alignItems: 'center', gap: '0.75rem'}}>
           <Image 
-            src="/images/MartinsComercioLogo.png" 
+            src="/images/martinscomerciologo.png" 
             alt="Martins Lemos Comércio Logo" 
             width={100} 
             height={100} 
