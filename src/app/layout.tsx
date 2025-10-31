@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "/images/MartinsComercioLogo.png",
+        url: "https://www.martinscom.top/images/MartinsComercioLogo.png",
         width: 1200,
         height: 630,
         alt: siteConfig.company.name,
