@@ -21,13 +21,15 @@ export const metadata: Metadata = {
     template: `%s | ${siteConfig.company.name}`,
   },
   description: siteConfig.about.short,
-  metadataBase: new URL("https://www.beelabs.com.br"),
+  metadataBase: new URL("https://www.martinscom.top"),
+    // metadataBase: new URL("https://www.beelabs.com.br"),
   openGraph: {
     title: siteConfig.company.name,
     description: siteConfig.about.short,
     locale: "pt_BR",
     siteName: siteConfig.company.name,
     type: "website",
+    url: "https://www.martinscom.top",
     images: [
       {
         url: "https://www.martinscom.top/images/martinscomerciologo.png",
@@ -48,6 +50,13 @@ export default function RootLayout({
       <html lang="pt-BR">
         <head>
           <meta name="facebook-domain-verification" content="xijo57gdkycb3xtuo6nzg33r9bhqbb" />
+          <link rel="canonical" href="https://www.martinscom.top/" />
+          <meta property="og:url" content="https://www.martinscom.top/" />
+          <meta property="og:image" content="https://www.martinscom.top/images/martinscomerciologo.png" />
+          <meta property="og:image:width" content="1200" />
+          <meta property="og:image:height" content="630" />
+          <meta name="twitter:card" content="summary_large_image" />
+          <meta name="twitter:image" content="https://www.martinscom.top/images/martinscomerciologo.png" />
         </head>
         <body className={`${geistSans.variable} ${geistMono.variable}`}>
           <div className="site-wrapper">
