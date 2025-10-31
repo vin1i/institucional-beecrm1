@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 import { siteConfig } from '@/lib/siteConfig';
 
 const navLinks = [
@@ -43,9 +44,19 @@ export default function Header() {
   return (
     <header className={`site-header ${isScrolled ? 'site-header--scrolled' : ''}`}>
       <div className="container site-header__content">
-        <Link href="/" className="brand" aria-label={siteConfig.company.logoAlt}>
-          <span className="brand__title">{siteConfig.company.name}</span>
-          <span className="brand__tagline">{siteConfig.company.slogan}</span>
+        <Link href="/" className="brand" aria-label={siteConfig.company.logoAlt} style={{flexDirection: 'row', alignItems: 'center', gap: '0.75rem'}}>
+          <Image 
+            src="/images/MartinsComercioLogo.png" 
+            alt="Martins Lemos Comércio Logo" 
+            width={100} 
+            height={100} 
+            quality={80}
+            className="brand__logo"
+          />
+          <div style={{display: 'flex', flexDirection: 'column'}}>
+            <span className="brand__title">{siteConfig.company.name}</span>
+            <span className="brand__tagline">{siteConfig.company.slogan}</span>
+          </div>
         </Link>
 
         <nav aria-label="Navegação principal" className={`site-nav ${isMenuOpen ? 'site-nav--open' : ''}`}>

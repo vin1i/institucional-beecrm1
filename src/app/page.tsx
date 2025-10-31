@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { formatFullAddress, siteConfig } from "@/lib/siteConfig";
 
 export default function Home() {
@@ -6,24 +7,35 @@ export default function Home() {
 
   return (
     <>
-  <section className="container hero">
-  <div className=" hero__wrapper">
-    <div className="stack">
-      <span className="brand__tagline">Desde {company.foundedIn}</span>
-      <h1 className="hero__title">{company.name}</h1>
-      <p className="hero__subtitle">{company.slogan}</p>
-      <p className="section-subtitle">{about.short}</p>
-      <div className="hero__cta">
-        <Link className="btn btn-primary" href="/contato">
-          Fale com nossa equipe
-        </Link>
-        <Link className="btn btn-outline" href="/sobre">
-          Conheça Martins Lemos Comércio 
-        </Link>
+  <section className="hero" style={{paddingBlock: 'var(--spacing-2xl)'}}>
+    <div className="container" style={{display: 'flex', alignItems: 'center', gap: 'var(--spacing-xl)', flexWrap: 'wrap'}}>
+      <div className="stack" style={{flex: 1, minWidth: '300px'}}>
+        <span className="brand__tagline">Desde {company.foundedIn}</span>
+        <h1 className="hero__title">{company.name}</h1>
+        <p className="hero__subtitle">{company.slogan}</p>
+        <p className="section-subtitle">{about.short}</p>
+        <div className="hero__cta">
+          <Link className="btn btn-primary" href="/contato">
+            Fale com nossa equipe
+          </Link>
+          <Link className="btn btn-outline" href="/sobre">
+            Conheça Martins Lemos Comércio 
+          </Link>
+        </div>
+      </div>
+      <div className="hero__image" style={{flex: '0 0 auto'}}>
+        <Image 
+          src="/images/MartinsComercioLogo.png" 
+          alt="Martins Lemos Comércio Logo" 
+          width={300} 
+          height={300} 
+          priority
+          quality={80}
+          style={{borderRadius: '50%'}}
+        />
       </div>
     </div>
-  </div>
-</section>
+  </section>
 
 
       <section id="sobre">

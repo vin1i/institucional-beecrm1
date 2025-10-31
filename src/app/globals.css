@@ -3,12 +3,12 @@
    =================================== */
 
 :root {
-  /* Cores */
-  --color-primary: #2d2a6e;
-  --color-primary-light: #3d3a7e;
-  --color-primary-dark: #1d1a4e;
-  --color-accent: #fbb040;
-  --color-accent-hover: #e59f30;
+  /* Cores baseadas na logo Martins Comércio */
+  --color-primary: #2d5a3d;
+  --color-primary-light: #3d6a4d;
+  --color-primary-dark: #1d4a2d;
+  --color-accent: #c8956d;
+  --color-accent-hover: #b8855d;
   
   --color-text-primary: #2a2a3e;
   --color-text-secondary: #5f6178;
@@ -896,10 +896,10 @@ section {
    =================================== */
 
 .site-footer {
-  background: linear-gradient(165deg, #1a1845 0%, #0f0d2e 100%);
+  background: linear-gradient(165deg, var(--color-primary-dark) 0%, var(--color-primary) 100%);
   color: rgba(255, 255, 255, 0.9);
   margin-top: auto;
-  padding: var(--spacing-lg) 0; /* menor altura */
+  padding: var(--spacing-lg) 0;
   border-top: 1px solid rgba(255, 255, 255, 0.08);
   font-size: var(--font-size-sm);
 }
