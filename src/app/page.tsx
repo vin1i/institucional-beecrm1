@@ -18,7 +18,7 @@ export default function Home() {
           Fale com nossa equipe
         </Link>
         <Link className="btn btn-outline" href="/sobre">
-          Conheça a Bee Labs
+          Conheça Martins Lemos Comércio 
         </Link>
       </div>
     </div>
@@ -49,7 +49,7 @@ export default function Home() {
         <div className="container">
           <h2 className="section-title">Nossos Serviços</h2>
           <p className="section-subtitle">
-            Oferecemos soluções completas em marketing digital e tecnologia, com processos estruturados e foco em resultados mensuráveis para o seu negócio.
+            Oferecemos produtos alimentícios de qualidade com atendimento personalizado e preços justos para o seu dia a dia.
           </p>
           <div className="grid grid--three">
             {services.map((service) => (
@@ -65,9 +65,9 @@ export default function Home() {
       <section>
         <div className="container callout">
           <div>
-            <h3>Transparência e profissionalismo em cada projeto</h3>
+            <h3>Qualidade e confiança em cada produto</h3>
             <p>
-              Trabalhamos com processos claros, documentação completa e comunicação transparente para garantir que sua empresa tenha uma presença digital sólida e confiável.
+              Trabalhamos com fornecedores de confiança e processos rigorosos de seleção para garantir que você tenha acesso aos melhores produtos alimentícios com frescor e procedência garantidos.
             </p>
           </div>
           <div>

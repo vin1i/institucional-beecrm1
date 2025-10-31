@@ -14,7 +14,7 @@ export default function SobrePage() {
       <div className="container">
         <header className="sobre__header">
           <span className="brand__tagline">Desde {company.foundedIn}</span>
-          <h1>Construímos confiança no ambiente digital</h1>
+          <h1>Construímos confiança no comércio alimentício</h1>
           <p className="sobre__intro">{about.short}</p>
         </header>
 

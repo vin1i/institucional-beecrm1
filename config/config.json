@@ -1,81 +1,77 @@
 {
   "company": {
-    "name": "Paschoalotto Digital Comunicação e Tecnologia",
-    "footerName": "2025 Paschoalotto Digital – Projeto operado por Juntos Comunicação e Eventos LTDA",
-    "footerJuridicalName": "Juntos Comunicação e Eventos LTDA",
-    "slogan": "Conectando marcas e clientes de forma eficiente e estratégica.",
-    "cnpj": "40.758.417/0001-32",
-    "email": "contato@paschoalottodigital.com.br",
-    "phone": "+55 (11) 93454-7929",
-    "whatsapp": "https://wa.me/5511934547929",
-    "logoAlt": "Logotipo da Paschoalotto Digital",
-    "foundedIn": "2025"
+    "name": "Martins Lemos Comércio",
+    "footerName": "2025 Martins Lemos Comércio",
+    "footerJuridicalName": "A Martins Lemos Comercio",
+    "slogan": "Qualidade, bom atendimento e preços justos para o seu dia a dia.",
+    "cnpj": "33.760.939/0001-03",
+    "email": "contato@martinscom.top",
+    "phone": "+55 (11) 5194-2713",
+    "whatsapp": "https://wa.me/551151942713",
+    "logoAlt": "Logotipo da Nova Mix",
+    "foundedIn": "2020"
   },
   "about": {
-    "short": "A Paschoalotto Digital é uma empresa especializada em soluções de comunicação e marketing digital, com foco em melhorar a experiência entre empresas e consumidores.",
-    "mission": "Conectar marcas e clientes de forma eficiente e estratégica, utilizando tecnologia e dados para otimizar o processo de comunicação e fortalecer o relacionamento com o público.",
-    "vision": "Ser referência em soluções integradas de comunicação digital que transformam a experiência de relacionamento entre empresas e seus clientes.",
+    "short": "A Martins Lemos Comércio é uma empresa dedicada ao comércio varejista de produtos alimentícios em geral, oferecendo uma ampla variedade de itens para o dia a dia dos nossos clientes.",
+    "mission": "Proporcionar qualidade, bom atendimento e preços justos, sempre com foco na satisfação e confiança de quem escolhe comprar conosco.",
+    "vision": "Tornar as compras mais práticas, acessíveis e agradáveis, garantindo frescor, procedência e excelência em cada produto oferecido.",
     "values": [
       {
-        "title": "Eficiência",
-        "description": "Processos otimizados e estratégias baseadas em dados para maximizar resultados."
+        "title": "Qualidade",
+        "description": "Produtos alimentícios selecionados com frescor, procedência e excelência garantidos."
       },
       {
-        "title": "Inovação Tecnológica",
-        "description": "Uso de tecnologia de ponta para criar soluções que facilitam a comunicação e o relacionamento."
+        "title": "Bom Atendimento",
+        "description": "Atendimento focado na satisfação e confiança dos nossos clientes."
       },
       {
-        "title": "Conexão Estratégica",
-        "description": "Foco em criar vínculos genuínos entre marcas e consumidores através de múltiplos canais."
+        "title": "Preços Justos",
+        "description": "Compromisso com preços acessíveis sem comprometer a qualidade dos produtos."
       }
     ],
     "detailed": [
-      "A Paschoalotto Digital atua com consultoria em publicidade, gestão de campanhas, atendimento omnichannel, eventos corporativos e automação de relacionamento em canais como WhatsApp, Instagram e Web.",
-      "Nossa expertise combina estratégia de comunicação, marketing digital e tecnologia para criar experiências que conectam empresas e consumidores de forma eficiente.",
-      "Utilizamos dados e automação para otimizar processos de comunicação, garantindo que cada interação fortaleça o relacionamento entre marca e público."
+      "Trabalhamos com produtos alimentícios selecionados, desde itens básicos até especialidades que atendem aos mais variados gostos e necessidades.",
+      "Na Martins Lemos Comércio, acreditamos que a boa alimentação é essencial para o bem-estar e a qualidade de vida.",
+      "Buscamos constantemente novas parcerias e fornecedores de confiança, para oferecer aos nossos clientes o melhor do mercado alimentício, com responsabilidade e transparência."
     ]
   },
   "address": {
-    "street": "Av. Etelvina de Souza Majone",
-    "number": "s/n",
-    "neighborhood": "",
-    "city": "Bauru",
-    "state": "SP",
-    "zip": "17047-202",
+    "street": "Estrada Barra do Fagundes",
+    "number": "0",
+    "neighborhood": "Sebollas",
+    "city": "Paraíba do Sul",
+    "state": "RJ",
+    "zip": "25850-000",
     "country": "Brasil"
   },
   "contact": {
-    "email": "contato@paschoalottodigital.com.br",
-    "phone": "+55 (11) 93454-7929",
-    "serviceHours": "Segunda a sexta, das 9h às 18h",
-    "supportMessage": "Retornamos todas as mensagens em até 1 dia útil."
+    "email": "contato@martinscom.top",
+    "phone": "+55 (11) 5194-2713",
+    "serviceHours": "Segunda a sábado, das 8h às 18h",
+    "supportMessage": "Estamos sempre prontos para atender você com qualidade e agilidade."
   },
   "social": {
-    "facebook": "https://facebook.com/paschoalottodigital",
-    "instagram": "https://instagram.com/paschoalottodigital",
-    "linkedin": "https://linkedin.com/company/paschoalottodigital",
-    "youtube": "https://youtube.com/@paschoalottodigital"
+    "facebook": "https://facebook.com/novamixcomercio",
+    "instagram": "https://instagram.com/novamixcomercio",
+    "linkedin": "https://linkedin.com/company/novamixcomercio",
+    "youtube": "https://youtube.com/@novamixcomercio"
   },
   "services": [
     {
-      "title": "Consultoria em Publicidade",
-      "description": "Estratégias personalizadas de comunicação e marketing para fortalecer a presença da sua marca no ambiente digital."
+      "title": "Produtos Alimentícios Básicos",
+      "description": "Ampla variedade de itens essenciais para o dia a dia, com qualidade e preços justos."
     },
     {
-      "title": "Gestão de Campanhas",
-      "description": "Planejamento e execução de campanhas digitais focadas em resultados mensuráveis e ROI otimizado."
+      "title": "Especialidades Alimentícias",
+      "description": "Produtos selecionados que atendem aos mais variados gostos e necessidades dos nossos clientes."
     },
     {
-      "title": "Atendimento Omnichannel",
-      "description": "Soluções integradas de atendimento em múltiplos canais como WhatsApp, Instagram e Web para melhorar a experiência do cliente."
+      "title": "Produtos Frescos",
+      "description": "Garantimos frescor e procedência em todos os produtos perecíveis oferecidos."
     },
     {
-      "title": "Eventos Corporativos",
-      "description": "Planejamento e execução de eventos que fortalecem o relacionamento entre sua empresa e seus clientes."
-    },
-    {
-      "title": "Automação de Relacionamento",
-      "description": "Tecnologia e automação para otimizar a comunicação e fortalecer o vínculo com seu público em diversos canais digitais."
+      "title": "Atendimento Personalizado",
+      "description": "Atendimento focado na satisfação do cliente, com orientação sobre produtos e necessidades."
     }
   ],
   "legal": {
@@ -84,7 +80,7 @@
       "sections": [
         {
           "title": "1. Introdução",
-          "body": "Esta Política de Privacidade descreve como a Paschoalotto Digital Comunicação e Tecnologia coleta, utiliza e protege os dados pessoais de clientes, parceiros e visitantes que interagem com nossos canais digitais."
+          "body": "Esta Política de Privacidade descreve como a Martins Lemos Comércio coleta, utiliza e protege os dados pessoais de clientes, parceiros e visitantes que interagem com nossos canais digitais."
         },
         {
           "title": "2. Dados coletados",
@@ -96,7 +92,7 @@
         },
         {
           "title": "4. Compartilhamento",
-          "body": "A Paschoalotto Digital não comercializa dados pessoais. Compartilhamos informações apenas com fornecedores essenciais e sempre em conformidade com a LGPD (Lei nº 13.709/2018)."
+          "body": "A Martins Lemos Comércio não comercializa dados pessoais. Compartilhamos informações apenas com fornecedores essenciais e sempre em conformidade com a LGPD (Lei nº 13.709/2018)."
         },
         {
           "title": "5. Segurança",
@@ -104,11 +100,11 @@
         },
         {
           "title": "6. Direitos do titular",
-          "body": "Você pode solicitar confirmação de tratamento, acesso, correção, anonimização ou exclusão dos seus dados por meio do e-mail contato@paschoalottodigital.com.br."
+          "body": "Você pode solicitar confirmação de tratamento, acesso, correção, anonimização ou exclusão dos seus dados por meio do e-mail contato@martinscom.top."
         },
         {
           "title": "7. Contato do DPO",
-          "body": "Para qualquer dúvida sobre privacidade, entre em contato com nosso Encarregado de Dados pelo e-mail contato@paschoalottodigital.com.br."
+          "body": "Para qualquer dúvida sobre privacidade, entre em contato com nosso Encarregado de Dados pelo e-mail contato@martinscom.top."
         }
       ]
     },
@@ -117,7 +113,7 @@
       "sections": [
         {
           "title": "1. Aceite dos termos",
-          "body": "Ao acessar os canais da Paschoalotto Digital Comunicação e Tecnologia, você concorda com estas condições de uso e declara estar ciente das políticas aplicáveis."
+          "body": "Ao acessar os canais da Martins Lemos Comércio, você concorda com estas condições de uso e declara estar ciente das políticas aplicáveis."
         },
         {
           "title": "2. Uso adequado",
@@ -125,7 +121,7 @@
         },
         {
           "title": "3. Propriedade intelectual",
-          "body": "Todo o conteúdo disponibilizado pela Paschoalotto Digital é protegido por direitos autorais e não pode ser explorado comercialmente sem consentimento prévio."
+          "body": "Todo o conteúdo disponibilizado pela Martins Lemos Comércio é protegido por direitos autorais e não pode ser explorado comercialmente sem consentimento prévio."
         },
         {
           "title": "4. Limitação de responsabilidade",
@@ -137,7 +133,7 @@
         },
         {
           "title": "6. Foro",
-          "body": "Fica eleito o foro da Comarca de Bauru/SP para dirimir quaisquer controvérsias oriundas destes Termos."
+          "body": "Fica eleito o foro da Comarca de Paraíba do Sul/RJ para dirimir quaisquer controvérsias oriundas destes Termos."
         }
       ]
     },
@@ -146,7 +142,7 @@
       "sections": [
         {
           "title": "1. Introduction",
-          "body": "This Privacy Policy describes how Paschoalotto Digital Comunicação e Tecnologia collects, uses, and protects personal data from clients, partners, and visitors who interact with our digital channels."
+          "body": "This Privacy Policy describes how Martins Lemos Comércio collects, uses, and protects personal data from clients, partners, and visitors who interact with our digital channels."
         },
         {
           "title": "2. Data Collected",
@@ -158,7 +154,7 @@
         },
         {
           "title": "4. Sharing",
-          "body": "Paschoalotto Digital does not sell personal data. We share information only with essential suppliers and always in compliance with LGPD (Brazilian General Data Protection Law nº 13.709/2018)."
+          "body": "Martins Lemos Comércio does not sell personal data. We share information only with essential suppliers and always in compliance with LGPD (Brazilian General Data Protection Law nº 13.709/2018)."
         },
         {
           "title": "5. Security",
@@ -166,11 +162,11 @@
         },
         {
           "title": "6. Data Subject Rights",
-          "body": "You may request confirmation of processing, access, correction, anonymization, or deletion of your data via email at contato@paschoalottodigital.com.br."
+          "body": "You may request confirmation of processing, access, correction, anonymization, or deletion of your data via email at contato@martinscom.top."
         },
         {
           "title": "7. DPO Contact",
-          "body": "For any privacy questions, contact our Data Protection Officer at contato@paschoalottodigital.com.br."
+          "body": "For any privacy questions, contact our Data Protection Officer at contato@martinscom.top."
         }
       ]
     },
@@ -179,7 +175,7 @@
       "sections": [
         {
           "title": "1. Acceptance of Terms",
-          "body": "By accessing Paschoalotto Digital Comunicação e Tecnologia channels, you agree to these terms of use and declare awareness of applicable policies."
+          "body": "By accessing Martins Lemos Comércio channels, you agree to these terms of use and declare awareness of applicable policies."
         },
         {
           "title": "2. Proper Use",
@@ -187,7 +183,7 @@
         },
         {
           "title": "3. Intellectual Property",
-          "body": "All content provided by Paschoalotto Digital is protected by copyright and may not be commercially exploited without prior consent."
+          "body": "All content provided by Martins Lemos Comércio is protected by copyright and may not be commercially exploited without prior consent."
         },
         {
           "title": "4. Limitation of Liability",
@@ -199,7 +195,7 @@
         },
         {
           "title": "6. Jurisdiction",
-          "body": "The jurisdiction of Bauru/SP, Brazil is elected to resolve any disputes arising from these Terms."
+          "body": "The jurisdiction of Paraíba do Sul/RJ, Brazil is elected to resolve any disputes arising from these Terms."
         }
       ]
     }

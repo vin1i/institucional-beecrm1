@@ -16,8 +16,7 @@ export default function ContatoPage() {
         <div className="contact-hero">
           <h1 className="section-title">Entre em contato</h1>
           <p>
-            Fale com a equipe da {company.name}. Retornamos em até 1 dia útil e
-            estamos prontos para ajudar sua empresa a alcançar os melhores resultados no ambiente digital.
+            Fale com a equipe da {company.name}. {contact.supportMessage}
           </p>
         </div>
 
