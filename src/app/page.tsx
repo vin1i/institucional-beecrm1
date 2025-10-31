@@ -25,7 +25,7 @@ export default function Home() {
       </div>
       <div className="hero__image" style={{flex: '0 0 auto'}}>
         <Image 
-          src="/images/martinscomerciologo.png" 
+          src="/images/martins_logo.png" 
           alt="Martins Lemos Comércio Logo" 
           width={300} 
           height={300} 
