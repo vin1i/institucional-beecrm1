@@ -3,7 +3,7 @@ import Image from "next/image";
 import { formatFullAddress, siteConfig } from "@/lib/siteConfig";
 
 export default function Home() {
-  const { company, about, services, contact, address } = siteConfig;
+  const { company, about, services, contact, address, cta } = siteConfig;
 
   return (
     <>
@@ -16,10 +16,10 @@ export default function Home() {
         <p className="section-subtitle">{about.short}</p>
         <div className="hero__cta">
           <Link className="btn btn-primary" href="/contato">
-            Fale com nossa equipe
+            {cta.primary}
           </Link>
           <Link className="btn btn-outline" href="/sobre">
-            Conheça Martins Lemos Comércio 
+            {cta.secondary}
           </Link>
         </div>
       </div>

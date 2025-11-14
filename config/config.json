@@ -12,9 +12,9 @@
     "foundedIn": "2019"
   },
   "about": {
-    "short": "A LJ Comércio é uma empresa especializada no comércio varejista de mercadorias em geral, com predominância de produtos alimentícios, atuando como supermercado na região de Brasília/DF.",
+    "short": "A LJ Comércio é uma empresa especializada no comércio varejista de mercadorias em geral, com predominância de produtos alimentícios, atuando como supermercado na região de São Paulo/SP.",
     "mission": "Oferecer produtos variados com qualidade e preços acessíveis, priorizando um atendimento eficiente e a satisfação de cada cliente.",
-    "vision": "Ser referência no varejo alimentício de Brasília, garantindo confiança, variedade e praticidade em cada compra.",
+    "vision": "Ser referência no varejo alimentício de São Paulo, garantindo confiança, variedade e praticidade em cada compra.",
     "values": [
       {
         "title": "Qualidade",
@@ -49,6 +49,10 @@
     "phone": "+55 (11) 4863-3119",
     "serviceHours": "Segunda a sábado, das 8h às 18h",
     "supportMessage": "Conte com nossa equipe sempre que precisar."
+  },
+  "cta": {
+    "primary": "Fale com nossa equipe",
+    "secondary": "Conheça LJ Comércio"
   },
   "social": {
     "facebook": "https://facebook.com/ljcomercio",
@@ -133,7 +137,7 @@
         },
         {
           "title": "6. Foro",
-          "body": "Fica eleito o foro de Brasília/DF para resolução de conflitos."
+          "body": "Fica eleito o foro de São Paulo/SP para resolução de conflitos."
         }
       ]
     },
@@ -195,7 +199,7 @@
         },
         {
           "title": "6. Jurisdiction",
-          "body": "The jurisdiction of Brasília/DF, Brazil is elected for dispute resolution."
+          "body": "The jurisdiction of São Paulo/SP, Brazil is elected for dispute resolution."
         }
       ]
     }
