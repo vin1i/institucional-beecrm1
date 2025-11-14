@@ -1,77 +1,77 @@
 {
   "company": {
-    "name": "Martins Lemos Comércios",
-    "footerName": "Martins Lemos Comércio",
-    "footerJuridicalName": "A Martins Lemos Comercio",
-    "slogan": "Qualidade, bom atendimento e preços justos para o seu dia a dia.",
-    "cnpj": "33.760.939/0001-03",
-    "email": "contato@martinscom.top",
-    "phone": "+55 (11) 5194-2713",
-    "whatsapp": "https://wa.me/551151942713",
-    "logoAlt": "Logotipo da Nova Mix",
-    "foundedIn": "2020"
+    "name": "LJ Comércio",
+    "footerName": "LJ Comércio",
+    "footerJuridicalName": "LJ Comércio de Mercadorias Eireli",
+    "slogan": "Qualidade, praticidade e variedade para o seu dia a dia.",
+    "cnpj": "35.079.539/0001-62",
+    "email": "contato@ljcomercio.com.br",
+    "phone": "+55 (61) 0000-0000",
+    "whatsapp": "https://wa.me/556100000000",
+    "logoAlt": "Logotipo da LJ Comércio",
+    "foundedIn": "2019"
   },
   "about": {
-    "short": "A Martins Lemos Comércio é uma empresa dedicada ao comércio varejista de produtos alimentícios em geral, oferecendo uma ampla variedade de itens para o dia a dia dos nossos clientes.",
-    "mission": "Proporcionar qualidade, bom atendimento e preços justos, sempre com foco na satisfação e confiança de quem escolhe comprar conosco.",
-    "vision": "Tornar as compras mais práticas, acessíveis e agradáveis, garantindo frescor, procedência e excelência em cada produto oferecido.",
+    "short": "A LJ Comércio é uma empresa especializada no comércio varejista de mercadorias em geral, com predominância de produtos alimentícios, atuando como supermercado na região de Brasília/DF.",
+    "mission": "Oferecer produtos variados com qualidade e preços acessíveis, priorizando um atendimento eficiente e a satisfação de cada cliente.",
+    "vision": "Ser referência no varejo alimentício de Brasília, garantindo confiança, variedade e praticidade em cada compra.",
     "values": [
       {
         "title": "Qualidade",
-        "description": "Produtos alimentícios selecionados com frescor, procedência e excelência garantidos."
+        "description": "Produtos selecionados com foco em frescor, procedência e excelência."
       },
       {
-        "title": "Bom Atendimento",
-        "description": "Atendimento focado na satisfação e confiança dos nossos clientes."
+        "title": "Atendimento",
+        "description": "Equipe dedicada a proporcionar uma experiência de compra ágil e acolhedora."
       },
       {
         "title": "Preços Justos",
-        "description": "Compromisso com preços acessíveis sem comprometer a qualidade dos produtos."
+        "description": "Compromisso com preços acessíveis para o dia a dia das famílias."
       }
     ],
     "detailed": [
-      "Trabalhamos com produtos alimentícios selecionados, desde itens básicos até especialidades que atendem aos mais variados gostos e necessidades.",
-      "Na Martins Lemos Comércio, acreditamos que a boa alimentação é essencial para o bem-estar e a qualidade de vida.",
-      "Buscamos constantemente novas parcerias e fornecedores de confiança, para oferecer aos nossos clientes o melhor do mercado alimentício, com responsabilidade e transparência."
+      "A LJ Comércio oferece uma ampla variedade de produtos alimentícios essenciais, desde itens básicos até opções especiais para diferentes perfis de consumo.",
+      "Acreditamos que praticidade e qualidade fazem a diferença na rotina de nossos clientes.",
+      "Trabalhamos com fornecedores de confiança, garantindo segurança, procedência e transparência em todos os produtos que disponibilizamos."
     ]
   },
   "address": {
-    "street": "Estrada Barra do Fagundes",
+    "street": "Endereço não informado pela Receita",
     "number": "0",
-    "neighborhood": "Sebollas",
-    "city": "Paraíba do Sul",
-    "state": "RJ",
-    "zip": "25850-000",
+    "neighborhood": "Brasília",
+    "city": "Brasília",
+    "state": "DF",
+    "zip": "00000-000",
     "country": "Brasil"
   },
   "contact": {
-    "email": "contato@martinscom.top",
-    "phone": "+55 (11) 5194-2713",
+    "email": "contato@ljcomercio.com.br",
+    "phone": "+55 (61) 0000-0000",
     "serviceHours": "Segunda a sábado, das 8h às 18h",
-    "supportMessage": "Estamos sempre prontos para atender você com qualidade e agilidade."
+    "supportMessage": "Conte com nossa equipe sempre que precisar."
   },
   "social": {
-    "facebook": "https://facebook.com/novamixcomercio",
-    "instagram": "https://instagram.com/novamixcomercio",
-    "linkedin": "https://linkedin.com/company/novamixcomercio",
-    "youtube": "https://youtube.com/@novamixcomercio"
+    "facebook": "https://facebook.com/ljcomercio",
+    "instagram": "https://instagram.com/ljcomercio",
+    "linkedin": "https://linkedin.com/company/ljcomercio",
+    "youtube": "https://youtube.com/@ljcomercio"
   },
   "services": [
     {
-      "title": "Produtos Alimentícios Básicos",
-      "description": "Ampla variedade de itens essenciais para o dia a dia, com qualidade e preços justos."
+      "title": "Supermercado Completo",
+      "description": "Variedade de produtos para atender todas as necessidades do dia a dia."
     },
     {
-      "title": "Especialidades Alimentícias",
-      "description": "Produtos selecionados que atendem aos mais variados gostos e necessidades dos nossos clientes."
+      "title": "Produtos Alimentícios Essenciais",
+      "description": "Itens básicos e indispensáveis para a rotina das famílias."
     },
     {
       "title": "Produtos Frescos",
-      "description": "Garantimos frescor e procedência em todos os produtos perecíveis oferecidos."
+      "description": "Frescor garantido em hortifrúti, perecíveis e itens selecionados."
     },
     {
-      "title": "Atendimento Personalizado",
-      "description": "Atendimento focado na satisfação do cliente, com orientação sobre produtos e necessidades."
+      "title": "Atendimento Ágil",
+      "description": "Atendimento voltado para a praticidade e boa experiência de compra."
     }
   ],
   "legal": {
@@ -80,31 +80,31 @@
       "sections": [
         {
           "title": "1. Introdução",
-          "body": "Esta Política de Privacidade descreve como a Martins Lemos Comércio coleta, utiliza e protege os dados pessoais de clientes, parceiros e visitantes que interagem com nossos canais digitais."
+          "body": "Esta Política de Privacidade descreve como a LJ Comércio coleta, utiliza e protege os dados pessoais de clientes, parceiros e visitantes de nossos canais digitais."
         },
         {
           "title": "2. Dados coletados",
-          "body": "Coletamos informações fornecidas voluntariamente, como nome, e-mail, telefone e empresa, além de dados de navegação para fins estatísticos e de segurança."
+          "body": "Coletamos informações fornecidas voluntariamente, como nome, e-mail e telefone, além de dados de navegação para fins estatísticos e de segurança."
         },
         {
           "title": "3. Uso das informações",
-          "body": "Utilizamos os dados para responder contatos, enviar comunicações institucionais, oferecer serviços alinhados aos interesses do titular e cumprir obrigações legais."
+          "body": "Utilizamos os dados para atendimento, comunicações institucionais, melhoria dos serviços e cumprimento de obrigações legais."
         },
         {
           "title": "4. Compartilhamento",
-          "body": "A Martins Lemos Comércio não comercializa dados pessoais. Compartilhamos informações apenas com fornecedores essenciais e sempre em conformidade com a LGPD (Lei nº 13.709/2018)."
+          "body": "A LJ Comércio não vende dados pessoais. Informações podem ser compartilhadas apenas com fornecedores essenciais, sempre em conformidade com a LGPD."
         },
         {
           "title": "5. Segurança",
-          "body": "Adotamos medidas técnicas e administrativas proporcionais para proteger os dados contra acessos não autorizados e incidentes de segurança."
+          "body": "Aplicamos medidas técnicas e administrativas para proteger os dados contra acessos não autorizados ou incidentes."
         },
         {
           "title": "6. Direitos do titular",
-          "body": "Você pode solicitar confirmação de tratamento, acesso, correção, anonimização ou exclusão dos seus dados por meio do e-mail contato@martinscom.top."
+          "body": "O titular pode solicitar acesso, correção, anonimização ou exclusão de seus dados pelo e-mail contato@ljcomercio.com.br."
         },
         {
           "title": "7. Contato do DPO",
-          "body": "Para qualquer dúvida sobre privacidade, entre em contato com nosso Encarregado de Dados pelo e-mail contato@martinscom.top."
+          "body": "Para assuntos relacionados à privacidade, entre em contato com nosso Encarregado de Dados pelo e-mail contato@ljcomercio.com.br."
         }
       ]
     },
@@ -113,27 +113,27 @@
       "sections": [
         {
           "title": "1. Aceite dos termos",
-          "body": "Ao acessar os canais da Martins Lemos Comércio, você concorda com estas condições de uso e declara estar ciente das políticas aplicáveis."
+          "body": "Ao utilizar os canais da LJ Comércio, você concorda com estas condições de uso."
         },
         {
           "title": "2. Uso adequado",
-          "body": "É vedado utilizar nossos materiais para fins ilícitos, reproduzi-los sem autorização ou comprometer a segurança das nossas aplicações."
+          "body": "É proibido utilizar nossos materiais para fins ilícitos, reproduzi-los sem autorização ou comprometer a segurança das aplicações."
         },
         {
           "title": "3. Propriedade intelectual",
-          "body": "Todo o conteúdo disponibilizado pela Martins Lemos Comércio é protegido por direitos autorais e não pode ser explorado comercialmente sem consentimento prévio."
+          "body": "Todo conteúdo da LJ Comércio é protegido por direitos autorais."
         },
         {
           "title": "4. Limitação de responsabilidade",
-          "body": "Empregamos esforços para manter as informações atualizadas, porém não garantimos ausência total de erros e nos reservamos o direito de alterar conteúdos sem aviso prévio."
+          "body": "Nos esforçamos para manter as informações atualizadas, mas não garantimos ausência total de erros."
         },
         {
           "title": "5. Atualizações",
-          "body": "Os presentes Termos de Uso podem ser revisados a qualquer momento. Publicaremos a data de atualização e recomendamos a leitura periódica."
+          "body": "Estes termos podem ser atualizados a qualquer momento."
         },
         {
           "title": "6. Foro",
-          "body": "Fica eleito o foro da Comarca de Paraíba do Sul/RJ para dirimir quaisquer controvérsias oriundas destes Termos."
+          "body": "Fica eleito o foro de Brasília/DF para resolução de conflitos."
         }
       ]
     },
@@ -142,31 +142,31 @@
       "sections": [
         {
           "title": "1. Introduction",
-          "body": "This Privacy Policy describes how Martins Lemos Comércio collects, uses, and protects personal data from clients, partners, and visitors who interact with our digital channels."
+          "body": "This Privacy Policy explains how LJ Comércio collects, uses, and protects personal data from users and visitors."
         },
         {
           "title": "2. Data Collected",
-          "body": "We collect information provided voluntarily, such as name, email, phone, and company, as well as browsing data for statistical and security purposes."
+          "body": "We collect voluntarily provided information such as name, email, and phone, as well as browsing data."
         },
         {
           "title": "3. Use of Information",
-          "body": "We use data to respond to contacts, send institutional communications, offer services aligned with the data subject's interests, and comply with legal obligations."
+          "body": "Data is used for contact responses, service improvement, communication, and legal compliance."
         },
         {
           "title": "4. Sharing",
-          "body": "Martins Lemos Comércio does not sell personal data. We share information only with essential suppliers and always in compliance with LGPD (Brazilian General Data Protection Law nº 13.709/2018)."
+          "body": "We do not sell personal data. Sharing occurs only with essential partners and always in compliance with the LGPD."
         },
         {
           "title": "5. Security",
-          "body": "We adopt proportional technical and administrative measures to protect data against unauthorized access and security incidents."
+          "body": "We adopt technical and administrative measures to protect data."
         },
         {
           "title": "6. Data Subject Rights",
-          "body": "You may request confirmation of processing, access, correction, anonymization, or deletion of your data via email at contato@martinscom.top."
+          "body": "Users may request access, correction, anonymization, or deletion via contato@ljcomercio.com.br."
         },
         {
           "title": "7. DPO Contact",
-          "body": "For any privacy questions, contact our Data Protection Officer at contato@martinscom.top."
+          "body": "For privacy inquiries, contact our Data Protection Officer at contato@ljcomercio.com.br."
         }
       ]
     },
@@ -175,27 +175,27 @@
       "sections": [
         {
           "title": "1. Acceptance of Terms",
-          "body": "By accessing Martins Lemos Comércio channels, you agree to these terms of use and declare awareness of applicable policies."
+          "body": "By accessing LJ Comércio channels, you agree to these terms."
         },
         {
           "title": "2. Proper Use",
-          "body": "It is prohibited to use our materials for illicit purposes, reproduce them without authorization, or compromise the security of our applications."
+          "body": "It is prohibited to use our materials unlawfully or compromise platform security."
         },
         {
           "title": "3. Intellectual Property",
-          "body": "All content provided by Martins Lemos Comércio is protected by copyright and may not be commercially exploited without prior consent."
+          "body": "All LJ Comércio content is protected by copyright."
         },
         {
           "title": "4. Limitation of Liability",
-          "body": "We make efforts to keep information up to date, but do not guarantee complete absence of errors and reserve the right to change content without prior notice."
+          "body": "We strive to ensure accuracy, but we do not guarantee error-free information."
         },
         {
           "title": "5. Updates",
-          "body": "These Terms of Use may be revised at any time. We will publish the update date and recommend periodic review."
+          "body": "These terms may be updated at any time."
         },
         {
           "title": "6. Jurisdiction",
-          "body": "The jurisdiction of Paraíba do Sul/RJ, Brazil is elected to resolve any disputes arising from these Terms."
+          "body": "The jurisdiction of Brasília/DF, Brazil is elected for dispute resolution."
         }
       ]
     }
